@@ -1,0 +1,8 @@
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\CTDLGT\CTDLGT\bin\Debug\CTDLGT.exe.config
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\CTDLGT\CTDLGT\bin\Debug\CTDLGT.exe
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\CTDLGT\CTDLGT\bin\Debug\CTDLGT.pdb
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\CTDLGT\CTDLGT\obj\Debug\CTDLGT.csproj.AssemblyReference.cache
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\CTDLGT\CTDLGT\obj\Debug\CTDLGT.csproj.SuggestedBindingRedirects.cache
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\CTDLGT\CTDLGT\obj\Debug\CTDLGT.csproj.CoreCompileInputs.cache
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\CTDLGT\CTDLGT\obj\Debug\CTDLGT.exe
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\CTDLGT\CTDLGT\obj\Debug\CTDLGT.pdb
